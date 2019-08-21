@@ -1,0 +1,22 @@
+{
+    "name": "flyboyk/omnipay-ipg-online",
+    "description": "omnipay ipg online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "php1",
+            "email": "php1@pet1718.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Omnipay\\IpgOnline\\": "src/"
+        }
+    },
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "omnipay/common": "~2.5.1"
+    }
+}
