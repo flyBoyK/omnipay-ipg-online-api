@@ -1,6 +1,2 @@
-*
-!.gitignore
-!composer.json
-!README.md
-!src/
-!test/
+vendor/
+.idea/
