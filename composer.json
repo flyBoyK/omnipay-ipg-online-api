@@ -1,6 +1,6 @@
 {
-    "name": "flyboyk/omnipay-ipg-online",
-    "description": "omnipay ipg online",
+    "name": "flyboyk/omnipay-ipg-online-api",
+    "description": "omnipay ipg online api",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Omnipay\\IpgOnline\\": "src/"
+            "Omnipay\\IpgOnlineApi\\": "src/"
         }
     },
     "require": {
